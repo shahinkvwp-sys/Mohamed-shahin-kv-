@@ -1,0 +1,6 @@
+{
+  "name": "My Money Mate",
+  "description": "Personalized money manager for ACCA students in Kerala. Track cash, bank & UPI balances, daily expenses, savings goals, ACCA course & exam fees, monthly budgets, and cash flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
